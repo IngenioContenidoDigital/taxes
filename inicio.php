@@ -15,16 +15,16 @@
 <div class="center-shadow">
 		<div id="carousel">
 			<div class="carousel-feature">
-				<a href="servicios.html"><img class="carousel-image" alt="" src="images/carrusel/contable1.png"/></a>
+				<a href="index.php?controller=servicios"><img class="carousel-image" alt="" src="images/carrusel/contable1.png"/></a>
 			</div>
 			<div class="carousel-feature">
-				<a href="servicios.html"><img class="carousel-image" alt="" src="images/carrusel/financiera1.png"/></a>
+				<a href="index.php?controller=servicios"><img class="carousel-image" alt="" src="images/carrusel/financiera1.png"/></a>
 			</div>
 			<div class="carousel-feature">
-				<a href="servicios.html"><img class="carousel-image" alt="" src="images/carrusel/tributaria1.png"/></a>
+				<a href="index.php?controller=servicios"><img class="carousel-image" alt="" src="images/carrusel/tributaria1.png"/></a>
 			</div>
 			<div class="carousel-feature">
-				<a href="servicios.html"><img class="carousel-image" alt="" src="images/carrusel/auditoria1.png"/></a>
+				<a href="index.php?controller=servicios"><img class="carousel-image" alt="" src="images/carrusel/auditoria1.png"/></a>
 			</div>
 		</div>
 </div>
